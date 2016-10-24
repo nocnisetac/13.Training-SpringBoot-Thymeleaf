@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+body {
+	background-color: black;
+	color:#FFCC00; 
+	font-family:Agency FB;
+}
+header {
+	background-image: url(/images/header.png);
+	background-repeat: no-repeat;
+	background-position: center; 
+	height:250px; 
+}
+.img {
+	width: 120px;
+	height: 100px;
+}
+/*menu*/
+
+#menu{
+	position: bottom center;
+}
+
+#menu ul {
+
+}
+
+#menu li {
+    display: inline;
+}
+
